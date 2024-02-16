@@ -9,12 +9,10 @@ Explore the world of social media with ease using this platform. Users can effor
 ## Screenshots
 Screenshots of the project in action:
 ![mainScreen](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/d37bec4f-4921-4059-aea7-fd560570241b)
-)
 
 
 | Sign in | Create post | imgInfo |
-
-| ![SignIn](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/f4cb9788-71bb-491c-b547-25e60baed0c4/SignIn.png) | ![Create post](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/9e015526-e620-4406-909d-a837a638c17b/Create%20post.png) | ![imgInfo](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/17567963-8720-4dc4-8d04-971fa4ec0127/imgInfo.png) |
+| !:[SignIn](![SignIn](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/824ce053-e7e5-44f7-8120-ad0111b5575b):|: ![Create post](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/447d876f-d554-42a2-8e4e-11e1e786bb26) :|: ![imgInfo](![imgInfo](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/49a11b05-a2ca-4651-89d9-19dd9907a408) :|
 
 
 
