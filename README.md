@@ -10,14 +10,6 @@ Explore the world of social media with ease using this platform. Users can effor
 Screenshots of the project in action:
 ![mainScreen](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/d37bec4f-4921-4059-aea7-fd560570241b)
 
-
-| Sign in | Create post | imgInfo |
-| !:[SignIn](![SignIn](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/824ce053-e7e5-44f7-8120-ad0111b5575b):|: ![Create post](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/447d876f-d554-42a2-8e4e-11e1e786bb26) :|: ![imgInfo](![imgInfo](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/49a11b05-a2ca-4651-89d9-19dd9907a408) :|
-
-
-
-
-
 ## Technologies
 - React.js
 - Appwrite
