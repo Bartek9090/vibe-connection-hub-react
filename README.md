@@ -12,8 +12,10 @@ Screenshots of the project in action:
 )
 
 
-Sign in                    |  Create post              |  imgInfo   
-:![SignIn](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/f4cb9788-71bb-491c-b547-25e60baed0c4):|:![Screenshot3](![Create post](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/9e015526-e620-4406-909d-a837a638c17b):|:![Screenshot4](![imgInfo](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/17567963-8720-4dc4-8d04-971fa4ec0127):
+| Sign in | Create post | imgInfo |
+
+| ![SignIn](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/f4cb9788-71bb-491c-b547-25e60baed0c4/SignIn.png) | ![Create post](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/9e015526-e620-4406-909d-a837a638c17b/Create%20post.png) | ![imgInfo](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/17567963-8720-4dc4-8d04-971fa4ec0127/imgInfo.png) |
+
 
 
 
