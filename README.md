@@ -8,14 +8,10 @@ Explore the world of social media with ease using this platform. Users can effor
 
 ## Screenshots
 Screenshots of the project in action:
-
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/c92821f4-8540-4fc7-a422-da8afd942649/mainScreen.png" style="width: 100%;" alt="Screenshot1">
-    <img src="https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/b13db418-83db-4b3e-817b-840486b2450e/SignIn.png" style="width: 30%; margin-right: 1%;" alt="Screenshot2">
-    <img src="https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/fc08526d-d04b-414a-b334-ffb74d544114/Create%20post.png" style="width: 30%; margin-right: 1%;" alt="Screenshot3">
-    <img src="https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/e535ca96-d94c-4dd0-bb09-cbb6bb067f09/imgInfo.png" style="width: 30%;" alt="Screenshot4">
-</div>
-
+![Screenshot1](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/c92821f4-8540-4fc7-a422-da8afd942649/mainScreen.png)
+![Screenshot2](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/b13db418-83db-4b3e-817b-840486b2450e/SignIn.png)
+![Screenshot3](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/fc08526d-d04b-414a-b334-ffb74d544114/Create%20post.png)
+![Screenshot4](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/e535ca96-d94c-4dd0-bb09-cbb6bb067f09/imgInfo.png)
 ## Technologies
 - React.js
 - Appwrite
