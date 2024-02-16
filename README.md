@@ -1,4 +1,4 @@
-# Social Media Application
+![mainScreen](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/b4ab7cb9-e37f-4938-95fd-f0d460818d89)# Social Media Application
 
 ## Description
 This is a user-friendly social media platform built with React, offering a pleasant interface and a plethora of features. The project leverages React Query for efficient data fetching, ensuring a smooth user experience. Authentication is robustly implemented to guarantee user security and privacy. This project was developed with guidance from a YouTube tutorial. The app has been deployed on Vercel.
@@ -8,10 +8,18 @@ Explore the world of social media with ease using this platform. Users can effor
 
 ## Screenshots
 Screenshots of the project in action:
-![Screenshot1](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/c92821f4-8540-4fc7-a422-da8afd942649/mainScreen.png)
-![Screenshot2](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/b13db418-83db-4b3e-817b-840486b2450e/SignIn.png)
-![Screenshot3](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/fc08526d-d04b-414a-b334-ffb74d544114/Create%20post.png)
-![Screenshot4](https://github.com/Bartek9090/vibe-connection-hub-react/raw/main/assets/80546803/e535ca96-d94c-4dd0-bb09-cbb6bb067f09/imgInfo.png)
+![mainScreen](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/d37bec4f-4921-4059-aea7-fd560570241b)
+)
+
+
+Sign in                    |  Create post              |  imgInfo   
+:-------------------------:|:-------------------------:|:-------------------------:
+![SignIn](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/f4cb9788-71bb-491c-b547-25e60baed0c4)
+|
+![Screenshot3](![Create post](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/9e015526-e620-4406-909d-a837a638c17b)
+|
+![Screenshot4](![imgInfo](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/17567963-8720-4dc4-8d04-971fa4ec0127)
+
 ## Technologies
 - React.js
 - Appwrite
