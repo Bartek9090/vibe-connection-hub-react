@@ -1,4 +1,4 @@
-![mainScreen](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/b4ab7cb9-e37f-4938-95fd-f0d460818d89)# Social Media Application
+# Social Media Application
 
 ## Description
 This is a user-friendly social media platform built with React, offering a pleasant interface and a plethora of features. The project leverages React Query for efficient data fetching, ensuring a smooth user experience. Authentication is robustly implemented to guarantee user security and privacy. This project was developed with guidance from a YouTube tutorial. The app has been deployed on Vercel.
@@ -13,12 +13,10 @@ Screenshots of the project in action:
 
 
 Sign in                    |  Create post              |  imgInfo   
-:-------------------------:|:-------------------------:|:-------------------------:
-![SignIn](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/f4cb9788-71bb-491c-b547-25e60baed0c4)
-|
-![Screenshot3](![Create post](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/9e015526-e620-4406-909d-a837a638c17b)
-|
-![Screenshot4](![imgInfo](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/17567963-8720-4dc4-8d04-971fa4ec0127)
+:![SignIn](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/f4cb9788-71bb-491c-b547-25e60baed0c4):|:![Screenshot3](![Create post](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/9e015526-e620-4406-909d-a837a638c17b):|:![Screenshot4](![imgInfo](https://github.com/Bartek9090/vibe-connection-hub-react/assets/80546803/17567963-8720-4dc4-8d04-971fa4ec0127):
+
+
+
 
 ## Technologies
 - React.js
