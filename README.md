@@ -35,34 +35,40 @@ Screenshots of the project in action:
 - **Backend as a Service (BaaS) - Appwrite:** Utilizes Appwrite for streamlined backend development, including authentication, database, and file storage.
 
 ## Quick Start
+
 To set up the project locally, follow these steps:
 1. Clone the repository:
-   ```bash
-   $ git clone https://github.com/{Your username}/social-media-app.git
-Navigate to the project directory:
-bash
-Copy code
-$ cd social-media-app
+ 
+```bash
+$ git clone https://github.com/{Your username}/quiz-app-react.git
+```
+After cloning the repo, go to its root directory and install dependencies
+
+`$ cd to file locaction` </br>
+
 Install dependencies:
 bash
 Copy code
-$ npm install
+`$ npm install` </br>
+
 Set up environment variables by creating a .env file in the root of your project and adding the following content:
 makefile. 
-Copy code
-VITE_APPWRITE_URL=
+`Copy code`
+
+"VITE_APPWRITE_URL=
 VITE_APPWRITE_PROJECT_ID=
 VITE_APPWRITE_DATABASE_ID=
 VITE_APPWRITE_STORAGE_ID=
 VITE_APPWRITE_USER_COLLECTION_ID=
 VITE_APPWRITE_POST_COLLECTION_ID=
-VITE_APPWRITE_SAVES_COLLECTION_ID=
+VITE_APPWRITE_SAVES_COLLECTION_ID="
+
 Replace the placeholder values with your actual Appwrite credentials.
 Start the application:
-bash
-Copy code
-$ npm start
-Open http://localhost:5173/ in your browser to view the project.
+
+$ `npm run dev`</br>
+Then you will have access to application on  http://localhost:5173/  
+
 ## Technologies
 - React.js
 - Appwrite
